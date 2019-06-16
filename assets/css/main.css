@@ -605,6 +605,14 @@ input, select, textarea {
 		opacity: 1.0;
 	}
 
+	.contact-info {
+		display: flex;
+		flex-direction: column;
+		justify-content: center !important;
+	}
+	    .email {
+			margin-bottom: 18px;
+		}
 /* Box */
 
 	.box {
