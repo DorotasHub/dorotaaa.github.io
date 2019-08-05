@@ -1338,7 +1338,8 @@ input, select, textarea {
 
 			.profpic {
 				    height: 86px; 
-    				border-radius: 50%;
+						border-radius: 50%;
+						position: inherit;
 			}
 		#header .content {
 			border-style: solid;
