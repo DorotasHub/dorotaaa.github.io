@@ -253,6 +253,21 @@ input, select, textarea {
 		display: flex !important;
 	}
 
+	/* .feature-left p {
+		margin: 0;
+	} */
+
+	.feature-des {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.feature-des2 {
+		display: flex;
+		flex-direction: column;
+		padding-left: 10px;
+	}
+	
 	.psg {
 		margin: 0 !important;
 	}
@@ -263,9 +278,9 @@ input, select, textarea {
   		transform: scaleX(-1.02) !important;
 	}
 
-	.feature-left p {
+	/* .feature-left p {
 		margin: 0 2rem 0 !important;
-	}
+	} */
 
 	sub {
 		font-size: 0.8rem;
