@@ -260,14 +260,16 @@ input, select, textarea {
 	.feature-des {
 		display: flex;
 		flex-direction: column;
+    padding-right: 10px;
 	}
 
 	.feature-des2 {
 		display: flex;
 		flex-direction: column;
 		padding-left: 10px;
+    max-width: 400px;
 	}
-	
+
 	.psg {
 		margin: 0 !important;
 	}
@@ -749,6 +751,7 @@ input, select, textarea {
 			display: block;
 			margin: 2.5rem 0;
 			width: 100%;
+			height: 100%;
 		}
 
 			.image.main img {
