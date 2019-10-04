@@ -197,6 +197,7 @@ input, select, textarea {
 			padding-bottom: 0.5rem;
 			margin: 0 0 2rem 0;
 		}
+	
 
 	h1 {
 		font-size: 2.25rem;
@@ -226,6 +227,20 @@ input, select, textarea {
 		font-size: 0.6rem;
 	}
 
+	/* .h2.major.aboutme {
+		margin-bottom: 0 !important;
+	}
+
+	div.aboutme {
+		display: flex;
+		justify-content: space-evenly;
+	}
+
+	.profpic.logo.me {
+		margin: 0 auto;
+	} */
+
+	
 	@media screen and (max-width: 736px) {
 
 		h1 {
