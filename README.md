@@ -1,1 +1,1 @@
-## [dev dorota](https://dorotaaa.github.io/ "portfolio")
+## [a bit about me](https://theycallmestack.github.io/ "portfolio")
