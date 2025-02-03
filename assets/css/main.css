@@ -1369,11 +1369,11 @@ input, select, textarea {
 			border-radius: 100%;
 		}
 
-			.profpic {
-				    height: 86px; 
-						border-radius: 50%;
-						position: inherit;
-			}
+
+		.profpic .logo {
+			border-radius: 50%;
+			position: inherit;
+		}
 			
 		#header .content {
 			border-style: solid;
