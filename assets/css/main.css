@@ -1369,11 +1369,11 @@ input, select, textarea {
 			border-radius: 100%;
 		}
 
-		.mainpic {
+		/* .mainpic {
 			height: 100px;
 			border-radius: 50%;
 			position: inherit;
-		}
+		} */
 
 			.profpic {
 				    height: 86px; 
