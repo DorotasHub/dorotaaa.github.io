@@ -255,6 +255,10 @@ input, select, textarea {
 
 	}
 
+	.resume {
+		border-bottom: none !important;
+	}
+
 	.posergram {
 		border-bottom: none !important;
 	}
@@ -262,6 +266,17 @@ input, select, textarea {
 	.jsproject {
 		border-bottom: none !important;
 		align-items: right !important;
+	}
+
+	.about {
+		border-bottom: none !important;
+		padding-bottom: 0px !important;
+		letter-spacing: 0.2rem;
+	}
+
+	.contact {
+		padding-bottom: 0px !important;
+		margin-bottom: 0.75rem !important;
 	}
 
 	.feature-left {
@@ -275,14 +290,14 @@ input, select, textarea {
 	.feature-des {
 		display: flex;
 		flex-direction: column;
-    padding-right: 10px;
+    	padding-right: 10px;
 	}
 
 	.feature-des2 {
 		display: flex;
 		flex-direction: column;
 		padding-left: 10px;
-    max-width: 400px;
+    	max-width: 400px;
 	}
 
 	.psg {
@@ -295,9 +310,6 @@ input, select, textarea {
   		transform: scaleX(-1.02) !important;
 	}
 
-	/* .feature-left p {
-		margin: 0 2rem 0 !important;
-	} */
 
 	sub {
 		font-size: 0.8rem;
